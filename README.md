@@ -1,19 +1,14 @@
 # Ninja_Saga
-Game Design Document
+Game Design Document (Incomplete Game)
 
 
 
 
-
+![Logo](https://user-images.githubusercontent.com/73217979/96730713-56958500-136b-11eb-8e57-49be2a55c322.png)
 Revision: 0.0.1
 
 
 Peter Paul L. Bacus
-
-
-
-
-
 
 
 
@@ -30,6 +25,12 @@ Nato is the main character of this game who is a ninja Nato training a lot to be
 
 
 TreeMonster
+![tree](https://user-images.githubusercontent.com/73217979/96730772-66ad6480-136b-11eb-9988-f42fed084755.png)
+
+
+
+
+
 
 
 
@@ -38,6 +39,7 @@ TreeMonster
 
 
 cloudMonster
+![evilcloud](https://user-images.githubusercontent.com/73217979/96730926-8cd30480-136b-11eb-9432-ee7eccebe931.png)
 
 
 . 
@@ -83,8 +85,15 @@ Jump sound
 Hit sound
 Shoot sound
 
-Graphics 
+Graphics
+![Dirt](https://user-images.githubusercontent.com/73217979/96730875-7f1d7f00-136b-11eb-8047-4f197875cda8.png)
+
+
+
+
+
 Characters
+
 Ninja (walk,jump,shoot)
 
 
