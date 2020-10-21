@@ -25,6 +25,7 @@ This game is made for fun only and not for sale its adventure action game, Nato 
 
 Characters
 Nato is the main character of this game who is a ninja Nato training a lot to become a great ninja in his village
+![ninja5](https://user-images.githubusercontent.com/73217979/96730567-29e16d80-136b-11eb-8560-4f30795469d1.png)
 
 
 
