@@ -3,7 +3,7 @@
 
 
 ![Logo](https://user-images.githubusercontent.com/73217979/96730713-56958500-136b-11eb-8e57-49be2a55c322.png)
-Revision: 0.0.1
+
 
 # Project Description
 
