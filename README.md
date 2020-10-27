@@ -9,7 +9,7 @@ Revision: 0.0.1
 
 This game is made for fun only and not for sale its adventure action game, Nato the ninja adventure in Land of Dead to defeat the demon king and revenge his village.
 
-Characters
+#Characters
 Nato is the main character of this game who is a ninja Nato training a lot to become a great ninja in his village
 ![ninja5](https://user-images.githubusercontent.com/73217979/96730567-29e16d80-136b-11eb-8560-4f30795469d1.png)
 
@@ -21,7 +21,10 @@ Nato is the main character of this game who is a ninja Nato training a lot to be
 
 
 
-TreeMonster
+#TreeMonster
+
+
+
 ![tree](https://user-images.githubusercontent.com/73217979/96730772-66ad6480-136b-11eb-9988-f42fed084755.png)
 
 
@@ -40,7 +43,7 @@ TreeMonster
 
 
 
-cloudMonster
+#cloudMonster
 
 
 
