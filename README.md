@@ -2,25 +2,22 @@
 Game Design Document (Incomplete Game)
 
 
-
-
 ![Logo](https://user-images.githubusercontent.com/73217979/96730713-56958500-136b-11eb-8e57-49be2a55c322.png)
 Revision: 0.0.1
 
-
-Peter Paul L. Bacus
-
-
-
-
-
-Project Description
+# Project Description
 
 This game is made for fun only and not for sale its adventure action game, Nato the ninja adventure in Land of Dead to defeat the demon king and revenge his village.
 
 Characters
 Nato is the main character of this game who is a ninja Nato training a lot to become a great ninja in his village
 ![ninja5](https://user-images.githubusercontent.com/73217979/96730567-29e16d80-136b-11eb-8560-4f30795469d1.png)
+
+
+
+
+
+
 
 
 
@@ -38,13 +35,30 @@ TreeMonster
 
 
 
+
+
+
+
+
 cloudMonster
+
+
+
 ![evilcloud](https://user-images.githubusercontent.com/73217979/96730926-8cd30480-136b-11eb-9432-ee7eccebe931.png)
 
 
 . 
+
+
+
+
+
+
+
+
+
  							
-Story
+#Story
 
 Nato training in mountain but when he’s comeback the village already destroyed by the minions of Demon King, Nato promise to himself that he revenge the village and defeat the Demon King.
 Theme
