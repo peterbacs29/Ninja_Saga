@@ -1,5 +1,5 @@
 # Ninja_Saga
-Game Design Document (Incomplete Game)
+(Incomplete Game)
 
 
 ![Logo](https://user-images.githubusercontent.com/73217979/96730713-56958500-136b-11eb-8e57-49be2a55c322.png)
